@@ -1,11 +1,5 @@
 {
   "elementos": [
-    {"Hidrogênio"},
+    {"nome": "Hidrogênio"},
   ],
-  "simbolos": [
-    {"H"},
-  ],
-  "numerosAtomicos": [
-    {1}
-  ]
 }

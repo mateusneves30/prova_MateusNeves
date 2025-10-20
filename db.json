@@ -1,5 +1,5 @@
 {
-  {Hidrogênio, Lítio, Sódio, Potássio, Rubídio, Césio, Frâncio},
-  {H, Li, Na, K, Rb, Cs, Fr},
+  {"Hidrogênio", "Lítio", "Sódio", "Potássio", "Rubídio", "Césio", "Frâncio"},
+  {"H", "Li", "Na", "K", "Rb", "Cs", "Fr"},
   {1, 3, 11, 19, 37, 55, 87},
 }
